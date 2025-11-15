@@ -1,18 +1,16 @@
 +++
 date = '2025-11-10T18:57:09-05:00'
 draft = true
-title = ''
+title = 'About'
 +++
+
 ___
 
 
 Media Research Director with 12+ years experience in multicultural market analytics and insights.
 
-On this website you will find a mixture of weekend projects, topics of interest, and resources I've found helpful.
+On this website you will find my CV in addition to a collection of helpful resources, weekend projects, and topics of interest.
 
-Connect with me via email.
+Navigate from the top right or take a look at recent posts below. Have a good day!
 
-[!Note]
-> blockquote
-## headertest
-
+___

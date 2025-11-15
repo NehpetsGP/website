@@ -5,14 +5,14 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "Cherry"
-defaultAppearance = "dark" # valid options: light or dark
+colorScheme = "Fire"
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 defaultThemeColor = "#FFFFFF"
 
-enableSearch = false
-enableCodeCopy = false
+enableSearch = true
+enableCodeCopy = true
 enableImageLazyLoading = true
 enableImageWebp = true
 
@@ -21,8 +21,8 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "image.jpg"
-  # logoDark = "img/dark-logo.jpg"
+  # logo = "assets/headshot2.jpeg"
+  # logoDark = "assets/headshot2.jpeg"
   showTitle = true
 
 [footer]
@@ -33,11 +33,11 @@ fingerprintAlgorithm = "sha256"
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
   recentLimit = 5
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
@@ -50,10 +50,10 @@ fingerprintAlgorithm = "sha256"
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
   showComments = true
-  sharingLinks = ["x-twitter", "linkedin", "email"]
+  # sharingLinks = ["linkedin"]
   # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]

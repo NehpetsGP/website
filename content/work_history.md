@@ -61,13 +61,14 @@ ___
 
 ## Skills
 ### Programming Languages
-- Python (pandas, numpy, plotly, matplotlib, evidence.dev)
+- Python (pandas, numpy, plotly, matplotlib)
 - SQL (DuckDB, PostgreSQL)
 - Markdown
 
 
 ### Software
 - Microsoft PowerBI
+- evidence.dev
 - Tableau
 - Domo
 - Microsoft Office (Excel, Outlook, PowerPoint, Word)

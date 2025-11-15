@@ -4,6 +4,13 @@
   
     
       <url>
+            <loc>//localhost:1313/contact/</loc>
+            <lastmod>2025-11-15T13:03:02-05:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>//localhost:1313/projects/my-first-project/</loc>
             <lastmod>2025-11-15T11:43:32-05:00</lastmod>
           </url>
@@ -25,7 +32,7 @@
   
     
       <url>
-            <loc>//localhost:1313/resources/my-first-post/</loc>
+            <loc>//localhost:1313/resources/markdown_reference/</loc>
             <lastmod>2025-11-15T10:27:02-05:00</lastmod>
           </url>
     

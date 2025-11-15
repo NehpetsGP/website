@@ -11,19 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Experience"
-  pageRef = "employers"
+  name = "CV"
+  pageRef = "work_history"
   weight = 10
 
 [[main]]
-  name = "Portfolio"
-  pageRef = "projects"
+  name = "Resources"
+  pageRef = "resources"
   weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
 
 [[main]]
   name = "Contact"
   pageRef = "about"
-  weight = 30
+  weight = 40
 
 [[main]]
   identifier = "search"

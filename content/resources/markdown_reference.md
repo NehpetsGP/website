@@ -57,10 +57,12 @@ _Italic_ text is wrapped in single asterisks
 [Internal link](/another/page)
 ```
 
-## Code Blocks (wrap in ```)
+## Code Blocks
+Wrap your code in ``` and you will get a code block like below
 ```markdown
-SELECT * FROM amazing_db LIMIT 5
-WHERE col = 'Super Simple';
+SELECT * FROM amazing_db
+WHERE col = 'Simple'
+LIMIT 5;
 ```
 
 ## Tables
